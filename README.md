@@ -2,7 +2,7 @@
 
 Meu nome é Gabriel Garcia
 
-- Estou estudando na plataforma ![Alura](alura.com.br).
+- Estou estudando na plataforma [Alura](alura.com.br).
 * Estou me desenvolvendo na linguagem JavaScript.
 + Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
 
